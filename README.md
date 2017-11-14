@@ -1,6 +1,6 @@
 # cs3715project
 
-github link : 
+github link : https://github.com/fmmr32/cs3715project
 
 
 Group 04 : 
